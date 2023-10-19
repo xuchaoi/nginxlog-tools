@@ -1,0 +1,2 @@
+# rum command
+./nginxlog qps --log-path test-access.log -s 2023-10-17-14:30 -e 2023-10-17-14:35
